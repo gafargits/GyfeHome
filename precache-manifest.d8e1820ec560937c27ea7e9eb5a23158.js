@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d81f16878f676ed416ebb574374dd154",
+    "revision": "ce925e48ddc8a090220694f01387494c",
     "url": "/GyfeHome/index.html"
   },
   {
-    "revision": "ad906d6deff9aa3c1523",
+    "revision": "8c358c7847d4025ee5b6",
     "url": "/GyfeHome/static/css/main.c803e85d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/GyfeHome/static/js/2.535f324c.chunk.js"
   },
   {
-    "revision": "ad906d6deff9aa3c1523",
-    "url": "/GyfeHome/static/js/main.7e7e7a38.chunk.js"
+    "revision": "8c358c7847d4025ee5b6",
+    "url": "/GyfeHome/static/js/main.50b03532.chunk.js"
   },
   {
     "revision": "6f0b3a64e8327f57ec35",
