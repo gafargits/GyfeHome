@@ -50,8 +50,6 @@ function IndexNavbar() {
         <div className="navbar-translate">
           <NavbarBrand
             data-placement="bottom"
-            href="/"
-            target="_blank"
             title="Team Gyfe Home"
           >
           <img 
